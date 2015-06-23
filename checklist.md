@@ -21,7 +21,7 @@ How much do the sponsorships cost and what do they include?
 
 ### Post-approval:
 #### _minimum_ T-6 to 8 weeks:
-* Fork this repo and use it as your checklist going forward, adding notes along the way.
+* Fork this repo and use it as your checklist going forward, adding notes and being sure to commit your changes along the way.
 * Follow up with the conference organizers and let them know which sponsorship package we have decided on.
 * Ask the conference organizers for a W-9 (W-8 if it's a non-US conference) and a PDF invoice for our finance team.
 * Email finance@chef.io with the W-9 and invoice, noting which conference you're sponsoring, and how much the amount is. cc [mary@chef.io](mailto:mary@chef.io) so that I have a record of it as well.
