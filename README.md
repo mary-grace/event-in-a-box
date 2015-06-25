@@ -6,6 +6,6 @@ While we often want to have some sort of presence at the events that you come ac
 
 We can't promise a presence at #alltheshows, but we do want to help you be successful in your area. Just keep in mind that we do have a budget, so we need you to be invested in the event, and to help us decide whether or not it's a good investment for the company. For example, we know that we typically want to be at any DevOpsDays events and regional Linux/Open Source conferences. You know your local area best, so let us know why we should be there and we'll see what we can do.
 
-Without further ado... click on "checklist template.md" to get started.
+Without further ado... click on [checklist template.md](https://github.com/mary-grace/event-in-a-box/blob/master/checklist-template.md) to get started.
 
 ![Oprah](http://cdn.meme.am/instances/500x/63091256.jpg)
