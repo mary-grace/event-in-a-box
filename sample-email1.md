@@ -59,7 +59,7 @@ Lastly, here’s some suggestions on how to be “Chef” at a conference:
 - Please DO, however, drink lots of water. Conferences can be draining, and you need to make sure you stay hydrated! Also be sure to take breaks to get food, walk around, meet people and enjoy the event. You aren’t chained to the booth the whole time… get out there! See what people are talking about and how the conversations are going.
 - Don’t forget your business cards! When people have in-depth questions, have them shoot you an email or give you a call to follow up at a different time. If they’re based in your area, and you’re comfortable doing so, offer to follow up over coffee or lunch.
 
-If you have any questions while on site, your main contact is none other than Nathen Harvey himself! I’ll be available via phone, hipchat  and email as well — 707.291.6220. I’ve attached the sponsor guide in case you have any questions about where our table is located, etc.
+If you have any questions while on site, your main contact is none other than Nathen Harvey himself! I’ll be available via phone, hipchat  and email as well. I’ve attached the sponsor guide in case you have any questions about where our table is located, etc.
 
 Any questions that I can answer?
 -m.
