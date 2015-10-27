@@ -10,12 +10,12 @@ We can't promise a presence at #alltheshows, but we do want to help you be succe
 Without further ado... here's your "Event in a Box."
 
 ### Pre-approval:
-* Check the [Technical Conferences Spreadsheet: [New] 2015 Events](https://docs.google.com/a/chef.io/spreadsheet/ccc?key=0AhSqvX6gSnKCdHNmMjNtS21CZk5hV3FHTlN1SGpaWEE#gid=36) to see if we're already planning on being at the event you're interested in.
+* Check the $COMPANYNAME Technical Conferences Spreadsheet to see if we're already planning on being at the event you're interested in.
 * If you don't see it on there, email the event organizers for information on sponsorships: 
 How many ppl are they expecting?
 What audience are they targeting?
 How much do the sponsorships cost and what do they include?
-* Once you've heard back, fill out [this form](http://goo.gl/forms/UnCxcrZTia) with all of the basic information, as well as why you feel we should be sponsoring this event (e.g. we're wanting to increase our presence in Vancouver; this is a new show that shows a lot of promise in the DevOps area; we have a lot of potential/customers who will be attending, etc.)
+* Once you've heard back, fill out this form with all of the basic information, as well as why you feel we should be sponsoring this event (e.g. we're wanting to increase our presence in Vancouver; this is a new show that shows a lot of promise in the DevOps area; we have a lot of potential/customers who will be attending, etc.)
 * You'll hear back from us on Friday afternoons, after we've meet to talk through the events we've heard about that week. _Take this into account when submitting events -- there needs to be enough lead time for us to process your proposal, and for you to organize our presence there._
 * (optional) Submit to the CFP, or post the CFP info in the $COMPANYNAME Hipchat Channel for other local employees.
 
